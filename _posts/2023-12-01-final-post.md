@@ -1,7 +1,9 @@
 ---
-layout: archives
-icon: fas fa-archive
-order: 3
+title: "Información Adicional, lecturas y herramientas"
+date: 2023-12-01 00:00:00 -0600
+categories: [Herramientas, Lecturas, Videos]
+tags: [Herramientas, Lecturas, Videos]
+
 ---
 # Contenido interesante
 
